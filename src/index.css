@@ -17,3 +17,8 @@ body {
     font-family: "Quicksand";
     display: inline;
 }
+
+ul,
+ol {
+    list-style: none;
+}
