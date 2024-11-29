@@ -5,12 +5,14 @@
     align-items: center;
     flex-direction: column;
     text-align: center;
-    width: 60%;
     border-radius: 20px;
+    box-shadow: 3px 3px 3px rgba(46, 46, 46, 0.651);
 }
 
 .card_image {
-    padding: 20px;
+    /* padding: 20px; */
+    /* border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem; */
 }
 
 .card_body {

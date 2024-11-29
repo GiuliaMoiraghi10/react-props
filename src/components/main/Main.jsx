@@ -9,7 +9,22 @@ export default function Main() {
                 <h1 className={style.title_blog}>Il mio blog</h1>
                 <div className={style.container}>
                     <div className={style.raw}>
-                        <div className={style.col_12}>
+                        <div className={style.col_4}>
+                            <Card />
+                        </div>
+                        <div className={style.col_4}>
+                            <Card />
+                        </div>
+                        <div className={style.col_4}>
+                            <Card />
+                        </div>
+                        <div className={style.col_4}>
+                            <Card />
+                        </div>
+                        <div className={style.col_4}>
+                            <Card />
+                        </div>
+                        <div className={style.col_4}>
                             <Card />
                         </div>
                     </div>
